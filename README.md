@@ -25,7 +25,7 @@ The directory structure of the dataset is as follows.
     │       ├── ...
     │       ├── ...
     │       └── 9793764153_Task_1_5_9_chunk_8.npz
-    ├── User ID 1
+    ├── 1008719828
     │   │   ├── window_times.json
     │   │   ├── screen_recording.mp4    
     │   ├── click_data
@@ -50,12 +50,12 @@ The directory structure of the dataset is as follows.
     │   ├── Eye Tracker
     │   │   ├──
     │   └── Video
-    ├── User ID 2
+    ├── 1566954358
     │   └── ...
     ├── ...
     ├── ...
     ├── ...
-    └── User ID 23
+    └── 9793764153
 
 ```
 
