@@ -20,19 +20,38 @@ The directory structure of the dataset is as follows.
     ├── ..                              
     ├── Datasets                   
     ├── User ID 1
-        │   ├── window_times.json
-        │   ├── screen_recording.mp4    
-        ├── click_data
-            ├── clicks.json
-            ├── ...
-            ├── ...
-            ├── ...
-            └── Task2_two_platforms_secondary.json
-        ├── EEG
-            ├──
-        ├── Eye Tracker
-            ├──
-        ├── Video
+    │   │   ├── window_times.json
+    │   │   ├── screen_recording.mp4    
+    │   ├── click_data
+    │   │   ├── clicks.json
+    │   │   ├── ...
+    │   │   ├── ...
+    │   │   ├── ...
+    │   │   └── Task2_two_platforms_secondary.json
+    │   ├── EEG
+    │   │   ├── 000
+    │   │   │   │   ├── raw data files
+    │   │   │   └── exports
+    │   │   │       └── extracted data files
+    │   │   ├── 001
+    │   │   │   │   ├── raw data files
+    │   │   │   └── exports
+    │   │   │       └── extracted data files
+    │   │   ├── 002
+    │   │   │   │   ├── raw data files
+    │   │   │   └── exports
+    │   │   │       └── extracted data files
+    │   │   ├── 003
+    │   │   │   │   ├── raw data files
+    │   │   │   └── exports
+    │   │   │      └── extracted data files
+    │   │   └── 004
+    │   │       │   ├── raw data files
+    │   │       └── exports
+    │   │           └── extracted data files
+    │   ├── Eye Tracker
+    │   │   ├──
+    │   ├── Video
 
 ```
 
