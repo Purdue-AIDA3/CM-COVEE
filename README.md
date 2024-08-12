@@ -18,7 +18,13 @@ The directory structure of the dataset is as follows.
 
 ```    
     ├── ..                              
-    ├── Datasets                   
+    ├── Datasets
+    │   └── video_dataset_CL_112_30frames
+    │       ├── 1008719828_Task_1_1_10_chunk_1.npz
+    │       ├── ...
+    │       ├── ...
+    │       ├── ...
+    │       └── 9793764153_Task_1_5_9_chunk_8.npz
     ├── User ID 1
     │   │   ├── window_times.json
     │   │   ├── screen_recording.mp4    
