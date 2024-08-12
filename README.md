@@ -36,7 +36,7 @@ The directory structure of the dataset is as follows.
     │   │   └── Task2_two_platforms_secondary.json
     │   ├── EEG
     │   │   ├── 000
-    │   │   │   │   ├── raw data files
+    │   │   │   │   └── raw data files
     │   │   │   └── exports
     │   │   │       └── extracted data files
     │   │   ├── 001
@@ -51,7 +51,7 @@ The directory structure of the dataset is as follows.
     │   │   ├──
     │   └── Video
     ├── User ID 2
-        └── ...
+    │   └── ...
     ├── ...
     ├── ...
     ├── ...
