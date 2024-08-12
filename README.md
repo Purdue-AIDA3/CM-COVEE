@@ -34,21 +34,13 @@ The directory structure of the dataset is as follows.
     │   │   │   └── exports
     │   │   │       └── extracted data files
     │   │   ├── 001
-    │   │   │   │   ├── raw data files
-    │   │   │   └── exports
-    │   │   │       └── extracted data files
+    │   │   │   └── ...
     │   │   ├── 002
-    │   │   │   │   ├── raw data files
-    │   │   │   └── exports
-    │   │   │       └── extracted data files
+    │   │   │   └── ...
     │   │   ├── 003
-    │   │   │   │   ├── raw data files
-    │   │   │   └── exports
-    │   │   │      └── extracted data files
+    │   │   │   └── ...
     │   │   └── 004
-    │   │       │   ├── raw data files
-    │   │       └── exports
-    │   │           └── extracted data files
+    │   │       └── ...
     │   ├── Eye Tracker
     │   │   ├──
     │   ├── Video
