@@ -63,7 +63,9 @@ The directory structure of the dataset is as follows.
     │       │   │   ├── ...
     │       │   │   ├── ...
     │       │   │   └── Task_1_1_1_secondary.mp4
-    │       │   └── Facial Features    # Facial features extracted from OpenFace
+    │       │   ├── Facial Features    # Facial features extracted from OpenFace
+    │       │   ├── Face Landmarks 
+    │       │   └── Eye Landmarks
     │       └── Task 2
     │           ├── Trial_1.mp4 
     │           ├── Trial_2.mp4
