@@ -18,11 +18,10 @@ The directory structure of the dataset is as follows.
 
 ```    
     ├── ..                              
-    ├── Datasets
+    ├── Simple Datasets
     │   └── Task 1   
     │       └── video_dataset_CL_112_30frames
     │       ├── 1008719828_Task_1_1_10_chunk_1.npz
-    │       ├── ...
     │       ├── ...
     │       ├── ...
     │       └── 9793764153_Task_1_5_9_chunk_8.npz
@@ -34,9 +33,8 @@ The directory structure of the dataset is as follows.
     │   │   ├── clicks.json
     │   │   ├── ...
     │   │   ├── ...
-    │   │   ├── ...
     │   │   └── Task2_two_platforms_secondary.json
-    │   ├── EEG
+    │   ├── Eye Tracker
     │   │   ├── 000
     │   │   │   │   └── raw data files
     │   │   │   └── exports
@@ -49,9 +47,29 @@ The directory structure of the dataset is as follows.
     │   │   │   └── ...
     │   │   └── 004
     │   │       └── ...
-    │   ├── Eye Tracker
-    │   │   ├──
+    │   ├── EEG
+    │   │   ├── min_processed
+    │   │   │   ├── psd
+    │   │   │   ├── Task 1 With Secondary Task
+    │   │   │   ├── Task 1 Without Secondary Task
+    │   │   │   └── Task 2
+    │   │   └── raw
+    │   │       ├── Task 1 With Secondary Task
+    │   │       ├── Task 1 Without Secondary Task
+    │   │       └── Task 2
     │   └── Video
+    │       ├── Task 1
+    │       │   │   ├── Task_1_1_1.mp4    # file names change per subject
+    │       │   │   ├── ...
+    │       │   │   ├── ...
+    │       │   │   └── Task_1_1_1_secondary.mp4
+    │       │   └── Facial Features    # Facial features extracted from OpenFace
+    │       └── Task 2
+    │           ├── Trial_1.mp4 
+    │           ├── Trial_2.mp4
+    │           ├── Trial_3.mp4
+    │           └── Trial_4.mp4
+    │ 
     ├── 1566954358
     │   └── ...
     ├── ...
