@@ -67,10 +67,11 @@ The directory structure of the dataset is as follows.
     │       │   ├── Face Landmarks 
     │       │   └── Eye Landmarks
     │       └── Task 2
-    │           ├── Trial_1.mp4 
-    │           ├── Trial_2.mp4
-    │           ├── Trial_3.mp4
-    │           └── Trial_4.mp4
+    │           │   ├── Trial_1.mp4 
+    │           │   ├── Trial_2.mp4
+    │           │   ├── Trial_3.mp4
+    │           │   └── Trial_4.mp4
+    │           └── Facial Features
     │ 
     ├── 1566954358
     │   └── ...
