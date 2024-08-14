@@ -28,12 +28,14 @@ The directory structure of the dataset is as follows.
     │        
     ├── 1008719828
     │   │   ├── window_times.json
-    │   │   ├── screen_recording.mp4    
+    │   │   └── screen_recording.mp4
+    │   │
     │   ├── click_data
     │   │   ├── clicks.json
     │   │   ├── ...
     │   │   ├── ...
     │   │   └── Task2_two_platforms_secondary.json
+    │   │
     │   ├── Eye Tracker
     │   │   ├── 000
     │   │   │   │   └── raw data files
@@ -47,6 +49,7 @@ The directory structure of the dataset is as follows.
     │   │   │   └── ...
     │   │   └── 004
     │   │       └── ...
+    │   │
     │   ├── EEG
     │   │   ├── min_processed
     │   │   │   ├── psd
@@ -57,6 +60,7 @@ The directory structure of the dataset is as follows.
     │   │       ├── Task 1 With Secondary Task
     │   │       ├── Task 1 Without Secondary Task
     │   │       └── Task 2
+    │   │
     │   └── Video
     │       ├── Task 1
     │       │   │   ├── Task_1_1_1.mp4    # file names change per subject
