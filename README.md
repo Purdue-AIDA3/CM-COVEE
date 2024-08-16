@@ -28,6 +28,7 @@ The directory structure of the dataset is as follows.
     │    ├── simple_dataset_creation
     │    ├── raw_data_processer
     │    └── research_program
+    │    └── verb_generation
     │
     └── user_data
         ├── 1008719828
