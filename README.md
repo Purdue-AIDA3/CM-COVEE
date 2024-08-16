@@ -25,7 +25,9 @@ The directory structure of the dataset is as follows.
     ├── src
     │    ├── label_generation
     │    ├── model_related
-    │    └── simple_dataset_creation
+    │    ├── simple_dataset_creation
+    │    ├── raw_data_processer
+    │    └── research_program
     │
     └── user_data
         ├── 1008719828
