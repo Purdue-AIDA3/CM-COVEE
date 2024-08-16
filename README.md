@@ -17,7 +17,7 @@ AVCAffe is hosted in [Globus](https://www.globus.org/).
 The directory structure of the dataset is as follows. 
 
 ```    
-    ├── ..                              
+└── COVEE                              
     ├── simple_datasets
     │   ├── Task 1   
     │   └── NASA-TLX
