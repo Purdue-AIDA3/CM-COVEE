@@ -12,7 +12,7 @@ COVEE: A Dataset for Cognitive Modeling with Video, Electroencephalography, and 
 
 ### Overview
 
-AVCAffe is hosted in [Globus](https://www.globus.org/).
+COVEE is hosted at Purdue [Data Depot](https://www.rcac.purdue.edu/storage/depot) and distributed through [Globus](https://www.globus.org/).
 
 The directory structure of the dataset is as follows. 
 
