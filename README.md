@@ -17,7 +17,7 @@ COVEE is hosted at Purdue [Data Depot](https://www.rcac.purdue.edu/storage/depot
 The directory structure of the dataset is as follows. 
 
 ```    
-└── COVEE                              
+└── **COVEE**                              
     ├── simple_datasets
     │   ├── Task 1   
     │   └── NASA-TLX
