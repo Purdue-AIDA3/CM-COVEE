@@ -19,9 +19,10 @@ COVEE is hosted at Purdue [Data Depot](https://www.rcac.purdue.edu/storage/depot
 Request for access to COVEE by filling out the Google form below:
 https://docs.google.com/forms/d/e/1FAIpQLScBLroHC9FJWcjAWpbjkTYWnmbnoPe5iEwxW05dTEpMw3wQog/viewform?usp=dialog
 
-### Data Access
+### Data Access and download
 
 Once approved, users can install and use GlobusConnectPersonal to access the data: https://www.globus.org/globus-connect-personal.
+Instructions on using Globus to transfer files are here: https://docs.globus.org/guides/tutorials/manage-files/transfer-files/
 
 ### Structure
 
