@@ -16,8 +16,7 @@ COVEE is hosted at Purdue [Data Depot](https://www.rcac.purdue.edu/storage/depot
 
 ### Data Request Form
 
-Request for access to COVEE by filling out the Google form below:
-https://docs.google.com/forms/d/e/1FAIpQLScBLroHC9FJWcjAWpbjkTYWnmbnoPe5iEwxW05dTEpMw3wQog/viewform?usp=dialog
+Request for access to COVEE by filling out the Google form [here] (https://docs.google.com/forms/d/e/1FAIpQLScBLroHC9FJWcjAWpbjkTYWnmbnoPe5iEwxW05dTEpMw3wQog/viewform?usp=dialog)
 
 ### Data Access and download
 
