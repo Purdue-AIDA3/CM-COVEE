@@ -27,42 +27,8 @@ Instructions on using Globus to transfer files are here: https://docs.globus.org
 
 The directory structure of the dataset is as follows. 
 
-.
-└── COVEE
-    ├── src
-    │   ├── label_generation
-    │   ├── model_related
-    │   ├── raw_data_processer
-    │   ├── research_program
-    │   ├── simple_dataset_creation
-    │   └── verb_generation
-    ├── simple_datasets
-    │   ├── ISA
-    │   ├── NASA-TLX
-    │   └── Task 1
-    └── user_data
-        ├── 1008719828
-        │   ├── clicks_data
-        │   ├── EEG
-        │   │   ├── min_processed
-        │   │   └── raw
-        │   ├── Eye Tracker
-        │   │   ├── Task 1
-        │   │   └── Task 2
-        │   ├── Video
-        │   │   ├── Task 1
-        │   │   └── Task 2
-        │   ├── screen_recording.mp4
-        │   └── window_times.json
-        ├── ...
-        └── 9793764153 \23 subjects
-
 ```    
-└── COVEE                              
-    ├── simple_datasets
-    │   ├── Task 1   
-    │   └── NASA-TLX
-    │   
+└── COVEE                               
     ├── src
     │    ├── label_generation
     │    ├── model_related
@@ -71,9 +37,13 @@ The directory structure of the dataset is as follows.
     │    └── research_program
     │    └── verb_generation
     │
+    ├── simple_datasets
+    │   ├── ISA
+    │   ├── NASA-TLX
+    │   └── Task 1
+    │
     └── user_data
         ├── 1008719828
-        │   │   └── window_times.json
         │   │
         │   ├── click_data
         │   │   ├── clicks.json
@@ -114,14 +84,16 @@ The directory structure of the dataset is as follows.
         │           │   ├── Trial_2.mp4
         │           │   ├── Trial_3.mp4
         │           │   └── Trial_4.mp4
-        │           └── Facial Features
+        │           ├── Facial Features
+        │           ├── Face Landmarks 
+        │           └── Eye Landmarks
         │ 
         ├── 1566954358
         │   └── ...
         ├── ...
         ├── ...
         ├── ...
-        └── 9793764153
+        └── 9793764153 \23 subjects
 
 ```
 
