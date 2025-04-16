@@ -20,8 +20,8 @@ Request for access to COVEE by filling out the Google form [here](https://docs.g
 
 ### Data Access and download
 
-Once approved, users can install and use GlobusConnectPersonal to access the data: https://www.globus.org/globus-connect-personal.
-Instructions on using Globus to transfer files are here: https://docs.globus.org/guides/tutorials/manage-files/transfer-files/
+Once approved, users can install and use GlobusConnectPersonal to access the data [here](https://www.globus.org/globus-connect-personal).
+Instructions on using Globus to transfer files are [here](https://docs.globus.org/guides/tutorials/manage-files/transfer-files/).
 
 ### Structure
 
