@@ -5,10 +5,10 @@ COVEE: A Dataset for Cognitive Modeling with Video, Electroencephalography, and 
 <!-- ### Items available -->
 ### Updates
 - [x] Paper
-- [ ] Database license agreement
-- [ ] Instruction to download
-- [ ] Dataloader code
-- [ ] Database release
+- [x] Database license agreement
+- [x] Instruction to download
+- [x] Dataloader code
+- [x] Database release
 
 ### Overview
 
