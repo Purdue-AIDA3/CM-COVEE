@@ -8,7 +8,7 @@ class SelfAttention(nn.Module):
         self.heads = heads
         self.head_dim = embed_size // heads
 
-        assert(self.head_dim*heads == embed_size) # ensure they're divisible
+        assert(self.head_dim*heads == embed_size) #ensure they're divisible
 
         self.values = nn.Linear(self.head_dim, self.head_dim, bias=False)
         self.keys = nn.Linear(self.head_dim, self.head_dim, bias=False)
@@ -27,7 +27,7 @@ class SelfAttention(nn.Module):
         query = self.query(query)
         keys = self.keys(keys)
 
-        energy = torch.einsum("nqhd,nkhd->nhqk",[query, keys])
+        energy = torch.einsum("nqhd,nkhd->nhqk",[query, keys]) # (10,10) ->
         # # query shape: (N, query_len, heads, heads_dim), query_len, key_len = MaxLength
         # # key shape: (N, key_len, heads, heads_dim)
         # # energy shape: (N, heads, query_len, key_len)
