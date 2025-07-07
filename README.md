@@ -14,7 +14,7 @@ COVEE: A Dataset for Cognitive Modeling with Video, Electroencephalography, and 
 
 COVEE is hosted at Purdue [Data Depot](https://www.rcac.purdue.edu/storage/depot) and distributed through [Globus](https://www.globus.org/).
 
-The experiment program can be found [here](https://github.com/Purdue-AIDA3/CM-VideoVisionModels)
+The experiment program can be found [here](https://github.com/Purdue-AIDA3/CM-ExperimentTools)
 
 ### Reviewer data Access and download
 
