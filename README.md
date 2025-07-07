@@ -14,6 +14,10 @@ COVEE: A Dataset for Cognitive Modeling with Video, Electroencephalography, and 
 
 COVEE is hosted at Purdue [Data Depot](https://www.rcac.purdue.edu/storage/depot) and distributed through [Globus](https://www.globus.org/).
 
+### Reviewer data Access and download
+
+A special account has been made for reviewers to access the dataset. Details can be found in the attached COVEE_Reviewer_Access.pdf
+
 ### Data Request Form
 
 Request for access to COVEE by filling out the Google form [here](https://docs.google.com/forms/d/e/1FAIpQLScBLroHC9FJWcjAWpbjkTYWnmbnoPe5iEwxW05dTEpMw3wQog/viewform?usp=dialog)
